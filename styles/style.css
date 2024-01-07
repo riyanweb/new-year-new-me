@@ -1,6 +1,7 @@
 /*Common styles*/
 body{
     font-family: 'Merriweather', serif;
+    font-family: 'Inter', sans-serif;
 }
 
 
@@ -14,6 +15,7 @@ body{
     font-size: 72px;
     font-weight: 900;
     text-align: center;
+    font-family: Merriweather;
   
   
     
@@ -39,6 +41,33 @@ header{
     font-weight: 400;
     text-align: center;
     padding-top: 153px;
+    font-family: Merriweather;
    
 }
+.discount{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+
+}
+.discount-desc1{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 0;
+
+}
+.discount-desc2{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    padding-bottom: 28px;
+}
+
 
