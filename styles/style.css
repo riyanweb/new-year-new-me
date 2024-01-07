@@ -1,0 +1,44 @@
+/*Common styles*/
+body{
+    font-family: 'Merriweather', serif;
+}
+
+
+
+/* header started*/
+    
+
+    
+.header2{
+    color: #FFF;
+    font-size: 72px;
+    font-weight: 900;
+    text-align: center;
+  
+  
+    
+    
+}
+header{
+    background-image: url('../Images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin:auto;
+    max-width: 100%;
+    height: 600px;
+    border-radius: 13px;
+  
+
+
+
+
+}
+.header1{
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 153px;
+   
+}
+
