@@ -21,19 +21,18 @@ body{
     
     
 }
-header{
-    background-image: url('../Images/Banner\ Image.png');
+
+
+.header-div{
+
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('../Images/Banner\ Image.png');
     background-repeat: no-repeat;
     background-position: center;
     margin:auto;
-    max-width: 100%;
+    width: 1320px;
     height: 600px;
     border-radius: 13px;
-  
-
-
-
-
+    margin: auto;
 }
 .header1{
     color: #FFF;
@@ -83,11 +82,11 @@ header{
     background-position: center;
     
     margin:auto;
-    max-width: 100%;
+    max-width: 70%;
     height: 600px;
     border-radius: 13px;
     display: flex;
-   
+   margin-top: 120px;
  
 
 }
@@ -99,8 +98,8 @@ header{
     line-height: 76px;
     letter-spacing: 7.04px;
     text-align-last: left;
-    padding-left: 400px;
-    padding-top: 122px;
+    padding-left: 139px;
+    padding-top: 79px;
     
 
 }
@@ -111,12 +110,12 @@ header{
     font-weight: 400;
     line-height: 30px;
     text-align-last: left;
-    padding-left: 400px;
+    padding-left: 139px;
 
 }
 .join-party{
     text-align-last: left;
-    padding-left: 400px;
+    padding-left: 139px;
     
 }
 .party-btn{
@@ -131,12 +130,18 @@ header{
 .grp70{
     padding-top: 42px;
     size: 50px;
-    padding-left: 30px;
+    padding-right: 152px;
   
 
  
 }
 .party-div{
+    margin: auto;
+    width: 65%;
+    height: 600px;
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    border-radius: 12px;
+    
     
 }
 
