@@ -359,5 +359,67 @@ body{
     flex: 33.33%;
     padding: 5px;
 }
+.subscribe{
+    width: 1320px;
+    height: 616px;
+    margin: auto;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin-top: 80px;
+
+}
+.subscribe-head{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+
+}
+.subscribe-desc{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+
+}
+.subscribe-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 70px;
+}
+
+.input-footer{
+    position: relative;
+    text-align: center;
+    margin-top: 40px;
+} 
+.subscribe-btn{
+    position: absolute;
+    right: 330px;
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    border: none;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.input-email{
+    width: 648px;
+    height: 67px;
+    border-radius: 50px;
+    background: #FFF;
+    text-align: left;
+    border: none;
+}
 
 
