@@ -44,6 +44,7 @@ body{
    
 }
 
+
 .discount{
     color: #F00;
     text-align: center;
@@ -288,6 +289,75 @@ body{
     font-size: 20px;
     font-weight: 500;
     line-height: 32px;
+}
+
+.gifts-banner{
+    background-image: url('../Images/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    width: 1320px;
+    margin: auto;
+    height: 482px;
+    
+}
+.gifts-item{
+    justify-content: right;
+    width: 1320px;
+    margin: auto;
+    display: flex;
+    position: relative;
+}
+.grp-44{
+    width: 206.841px;
+    height: 206.841px;
+    position: absolute;
+    right: 315px;
+    top: 160px;
+}
+.rect-2{
+    width: 1320px;
+    margin: auto;
+}
+.grp75{
+    position: relative;
+}
+.surprise{
+    position: absolute;
+    margin-top: 40px;
+}
+.best-gifts{
+    margin-top: 145px;
+}
+.best-gifts-item{
+    width: 1320px;
+    margin: auto;
+    margin-top: 100px;
+
+}
+.best-gifts-head1{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+.best-gifts-head2{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+
+}
+.row1{
+    width: 1320px;
+    margin: auto;
+    display: flex;
+
+}
+.column1{
+    flex: 33.33%;
+    padding: 5px;
 }
 
 
