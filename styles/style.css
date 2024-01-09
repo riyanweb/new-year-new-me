@@ -464,19 +464,22 @@ body{
     display: flex;
     justify-content: space-between;
     padding-top: 55px;
+    align-items: center;
 }
 .call-item{
     display: flex;
     gap: 5px;
+    align-items: center;
 }
 .website-item{
     display: flex;
     gap: 5px;
+    align-items: center;
 }
 .call{
     width: 24px;
     height: 24px;
-    padding-top: 28px;
+    
 
 }
 .container-footer1{
@@ -495,7 +498,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-
+    border-top: 1px solid rgba(255,255,255,0.15);
+    border-bottom: 1px solid rgba(255,255,255,0.15);;
 }
 
 .copyright-desc{
