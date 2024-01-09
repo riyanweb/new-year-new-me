@@ -78,7 +78,6 @@ body{
 }
 .party-banner{
     background-image: url('../Images/Vectorrr.png');
-    background-blend-mode: multiply;
     background-repeat: no-repeat;
     background-position: center;
     
@@ -167,7 +166,6 @@ body{
 }
 .address{
     text-align: center;
-    background-color: #FFE9E9;
     width: 1320px;
     height: 482px;
     margin: auto;
@@ -456,6 +454,8 @@ body{
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
+    margin: 0;
+    line-height: 36px;
     
 }
 .container-footer2{
