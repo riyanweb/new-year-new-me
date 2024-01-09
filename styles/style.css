@@ -292,14 +292,14 @@ body{
 }
 
 .gifts-banner{
-    background-image: url('../Images/Rectangle 1.png');
-    background-repeat: no-repeat;
+    background-image: url('../Images/Rectangle\ 1.png');
+   background-repeat: no-repeat;
     background-position: bottom right;
     width: 1320px;
     margin: auto;
     height: 482px;
-    
 }
+
 .gifts-item{
     justify-content: right;
     width: 1320px;
