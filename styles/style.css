@@ -239,6 +239,14 @@ body{
     text-align: left;
 
 }
+.border-banner{
+    border-radius: 400px;
+    border: 15px solid #F00;
+    width: 400px;
+    height: 400px;
+    margin-right: 115px;
+    margin-top: 26px;
+}
 .year-head{
     color: #F00;
     font-family: Inter;
